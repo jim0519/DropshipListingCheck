@@ -1,0 +1,17 @@
+*.pdb
+/DropshipListingCheckData/bin/Release
+/DropshipListingCheckData/bin/Debug
+/Common/obj/Debug
+/Common/bin/Debug
+/DropshipListingCheck/bin/Debug
+/Common/bin/Release
+/DropshipListingCheck/bin/Release
+/DropshipListingCheckBusiness/bin/Debug
+/DropshipListingCheckData/obj/Debug
+/DropshipListingCheckBusiness/bin/Release
+/Common/obj/Release
+/DropshipListingCheckBusiness/obj/Release
+/DropshipListingCheckData/obj/Release
+/DropshipListingCheckBusiness/obj/Debug
+/DropshipListingCheck/obj/Debug
+/DropshipListingCheck/obj/Release
